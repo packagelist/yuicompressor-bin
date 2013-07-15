@@ -12,7 +12,7 @@
         {
             "name":     "Krusty Kode",
             "email":    "kaiwa@20minutemail.com",
-            "role":     "package maintainer"
+            "role":     "maintainer"
         }
     ],
     "require": { },
