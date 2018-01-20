@@ -1,5 +1,5 @@
 {
-    "name": "packagist/yuicompressor-bin",
+    "name": "packagelist/yuicompressor-bin",
     "description": "YUI Compressor packaged for composer. JavaScript and CSS minification.",
     "license": "BSD-3-Clause",
     "homepage": "http://yui.github.io/yuicompressor",
